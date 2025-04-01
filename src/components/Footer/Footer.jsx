@@ -108,12 +108,18 @@ const Footer = () => {
               <div className="mt-6">
                 <div className="flex items-center gap-3">
                   <FaLocationArrow />
-                  <p>Noida, Uttar Pradesh</p>
+                  <p>Sangli, Maharashtra</p>
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <FaMobileAlt />
                   <p>+91 123456789</p>
                 </div>
+                <div className="flex items-center gap-3">
+                  
+                  <p>REACT BASED PROJECT BY- </p>
+                </div>
+                  <p className="underline m-2" >😁 TUSHAR GIDDE </p> 
+                
               </div>
             </div>
           </div>
